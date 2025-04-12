@@ -1,0 +1,8 @@
+Buka aplikasi laragonp
+
+buka terminal dengan mengklik pada aplikasi laragon
+
+Setelah terminal terbuka, pastikan composer dapat berjalan dengan cara jalan perintah "composer --version" pada terminal
+Untuk memulai installasi Laravel versi terbaru gunakan perintah: "composer create-project --prefer-dist laravel/laravel nama_project" sesuaikan nama_project dengan nama project Laravel Anda
+
+Setelah proses instalasi selesai, Anda bisa langsung menjalankan Laravel dengan menggunakan rtisan, alat command-line bawaan Laravel.
