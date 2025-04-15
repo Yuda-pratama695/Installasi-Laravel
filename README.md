@@ -48,4 +48,4 @@ ketik "composer global require laravel/installer"
 
 Akses via browser: http://127.0.0.1:8000
 
-
+![Laragon Start](img/7.jpg)
