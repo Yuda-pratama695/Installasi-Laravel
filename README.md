@@ -30,3 +30,22 @@ Tampilan awal Laravel:
 
 Buka terminal Laragon:
 
+Menu > Tools > Terminal
+
+
+Ketik perintah berikut:
+
+php -v
+composer -V
+
+⚙️ 3. Install Laravel
+
+ketik "composer global require laravel/installer"
+
+![Laragon Start](img/5.jpg)
+
+![Laragon Start](img/6.jpg)
+
+Akses via browser: http://127.0.0.1:8000
+
+
