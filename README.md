@@ -22,7 +22,7 @@ Tampilan awal Laravel:
 
 4. Setelah selesai, buka Laragon dan klik **Start All**
 
-![Laragon Start](img/2.g)jpg
+![Laragon Start](img/2.jpg)
 
 ---
 
