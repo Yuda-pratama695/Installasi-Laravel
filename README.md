@@ -8,7 +8,7 @@ Panduan lengkap instalasi Laravel dari awal sampai akhir menggunakan **Laragon**
 
 Tampilan awal Laravel:
 
-![Tampilan Laravel](assets/laravel-homepage.png)
+![Tampilan Laravel](img/1.jpg)
 
 ---
 
@@ -22,7 +22,7 @@ Tampilan awal Laravel:
 
 4. Setelah selesai, buka Laragon dan klik **Start All**
 
-![Laragon Start](img/1.png)
+![Laragon Start](img/2.g)jpg
 
 ---
 
